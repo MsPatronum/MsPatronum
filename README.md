@@ -1,13 +1,15 @@
 # 👋 Hello World 
 
-### ✨About me ✨
+## ✨About me ✨
 
 ---
 
 💼 I’m currently working on Unimed
+
 🌱 I’m currently learning Python
 
-- **Goals for 2023?**
+**Goals for 2023?**
+
 My main goal for 2023 is focus on my personal projects and post them here!
 
 
@@ -16,6 +18,7 @@ My main goal for 2023 is focus on my personal projects and post them here!
 ---
 
 Follow me on: 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicoleguido) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicky_eg) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/mspatronum)
 
 ### 💻 Tech Stack:
