@@ -2,8 +2,6 @@
 
 ## ✨About me ✨
 
----
-
 💼 I’m currently working on Unimed
 
 🌱 I’m currently learning Python
