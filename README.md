@@ -43,7 +43,7 @@ These are my stats:
 
 ![Nicole Guido's contributions](https://github-readme-streak-stats.herokuapp.com/?user=mspatronum&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
 
-![Nicole Guido's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mspatronum&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![Nicole Guido's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mspatronum&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍️ Random Dev Quote
 
