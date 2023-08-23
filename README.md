@@ -9,7 +9,7 @@ I graduated in Systems Analysis and Development and I have a postgraduate degree
 
 💼 I’m currently working on Unimed
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning Python and Next.js
 
 <br>
 
