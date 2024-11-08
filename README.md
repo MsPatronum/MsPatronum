@@ -7,17 +7,7 @@ I graduated in Systems Analysis and Development and I have a postgraduate degree
 
 ## ✨About me ✨
 
-💼 I’m currently working on Unimed
-
-🌱 I’m currently learning Python and Next.js
-
-<br>
-
-**Goals for 2023?**
-
-My main goal for 2023 is focus on my personal projects and post them here!
-
-<br>
+💼 I’m currently working as a Developer
 
 
 ## 🌐 Socials
